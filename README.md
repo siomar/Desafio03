@@ -6,7 +6,7 @@ Desafio consiste em criar uma aplicação que irá armazenar repositórios do po
 
 ## :rocket: Start Project
 
-Entre no projeto e execute o seguinte comendo no terminal:
+Entre no projeto e execute o seguinte comando no terminal:
 
      yarn
 	 yarn dev
